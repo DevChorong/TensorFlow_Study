@@ -1,0 +1,8 @@
+
+%% module 'tensorflow' has no attribute 'mul'
+
+ : tf.mul -> tf.multiply
+
+ : tf.sub -> tf.subtract
+
+ : tf.neg -> tf.negative
